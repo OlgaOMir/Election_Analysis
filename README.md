@@ -12,5 +12,5 @@ There were a total of 369,711 votes casted. Unfortunately, I was unable to debug
 
 I am receiving an error on line 36 of the code when I try to load the file as election_data. 
 
-![screenshot](https://github.com/OlgaOMir/Election_Analysis/blob/main/Resources/Screenshot%202022-11-09%20234838.png)
+![screenshot](https://github.com/OlgaOMir/Election_Analysis/blob/main/Resources/Results.png)
 
